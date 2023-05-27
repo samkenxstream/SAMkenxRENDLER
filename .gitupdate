@@ -1,8 +1,8 @@
 .vagrant
-**.pyc
-**.png
-**.pdf
-**.dot
+.pyc
+.png
+.pdf
+.dot
 go/src/code.google.com/
 go/pkg/
 go/bin/
